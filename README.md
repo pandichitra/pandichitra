@@ -2,7 +2,8 @@
 - 👀In love with... Music, Intricate Mandala Artworks, Writing, Travelling and a hot cup of Tea 
 - 🌱 I’m currently learning ...Python..from a Tyro to expert
 - 💞️  Just Love the feeling when my PR is merged as an Open Source Contributor, Happy 2 help the student community
-- 📫 How to reach me ...https://www.linkedin.com/in/pandichitra-r1/ (Linkedin) 
+- 📫 How to reach me ...https://linktr.ee/Pandichitra (All in one)
+- https://www.linkedin.com/in/pandichitra-r1/ (Linkedin) 
 
                    
 
