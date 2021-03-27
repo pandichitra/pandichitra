@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ...Python..from a Tyro to expert
 - 💞️  Just Love the feeling when my PR is merged as an Open Source Contributor, Happy 2 help the student community
 - 📫 How to reach me ...https://linktr.ee/Pandichitra (All in one)
-- https://www.linkedin.com/in/pandichitra-r1/ (Linkedin) 
-
-                   
+- https://www.linkedin.com/in/pandichitra-r1/ (Linkedin)
+- Here comes my octocat :
+https://octocat-generator-assets.githubusercontent.com/my-octocat-1616825432363.png                   
 
 <!---
 pandichitra/pandichitra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
