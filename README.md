@@ -1,7 +1,4 @@
--                                                                       👋 Hi, I’m @pandichitra.
-- ______________________________________________________________________________________________________________________________________________________________________________
-- 
--   I am an young Aspirant Exploring Python. A Data Scientist!!! I started off as an Intern in Data domain and then migrated to the Data Integration.I am now skilled in SQL, Informatica Tool and currently learning Python. 
+-👋 Hi, I’m @pandichitrac,I am an young Aspirant Exploring Python. A Data Scientist!!! I started off as an Intern in Data domain and then migrated to the Data Integration.I am now skilled in SQL, Informatica Tool and currently learning Python. 
 -   
 - 👀In love with... Music, Intricate Mandala Artworks, Writing, Travelling and a hot cup of Tea 
 - 🌱 I’m currently learning ...Python..from a Tyro to expert
